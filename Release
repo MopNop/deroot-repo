@@ -1,33 +1,33 @@
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm64
 Codename: ios
 Components: main
-Date: Sun, 18 Feb 2024 20:36:07 +0000
-Description: Sileo for Checkra1n and Unc0ver
-Label: Sileo
-Origin: Sileo
+Date: Sun, 18 Feb 2024 20:38:46 +0000
+Description: repo with derooted stuff
+Label: Echo's Derooted Repo
+Origin: Echo's Derooted Repo
 Suite: stable
-Version: 2.0
+Version: 1.0
 MD5Sum:
  0a2dfcbbf2febeebb468fd4ef0902313             3775 Packages
  4b42894dd5577cd6a8f31c0915bb9f84             1805 Packages.bz2
  b550a968af33c3754b7339c571309735             1708 Packages.xz
  9d137ea87225823d3fac3fa093f703dc             1666 Packages.zst
- d2d85eb71ab75df45d795d5e2e780e64              211 Release
+ 329ade195a1bf9d56da05ae4b12b5799              221 Release
 SHA1:
  bb2a5ee71f4a06a8a5681a6883bb45a8e8414216             3775 Packages
  a35504967ac3729e214ad7c0ddb3b6c7a7f5f375             1805 Packages.bz2
  14841cca7b59bdeca6fe24df9c628da0f3660724             1708 Packages.xz
  e9f7faac68aa61d80eb80844460f828004438737             1666 Packages.zst
- d853551bde727d416ebf4199f1c4a951f561a2bf              211 Release
+ b716013f66929ea641ef6ab1cd4fa14f6c52cd95              221 Release
 SHA256:
  3664bc1c97648a58fe69858460f5fae79f236d84117cb603ef8e248d36101d42             3775 Packages
  d67f56bded1ef41bf943d1efd5207d65ec51bccb6b6373c349d1062fb84e1a82             1805 Packages.bz2
  6cad57c6f777a32088860ef37f6cc321dc3a7b42722b3b42c5f0e02b85802bce             1708 Packages.xz
  7fe65216d80d7a329331f4a3e4c8e355093dd31cfb12d6c37397fb8e98a5b801             1666 Packages.zst
- c9f333b9784e3e78f1ab3056482139ceffb6f2da88b47064983cf85bdd3bf9dd              211 Release
+ c209f54841e844e2c137c1c4d5dc3e53ff21443b7206ee8165d3400147521c3f              221 Release
 SHA512:
  834f7f910bf32ca4169013b6a2b305762b3ba511a1d619cd01cfa6eb9ba0b19afcd7f0c7edf985391f8a72ae67e654a2cb3a588565f6239f4297efb5e9bc12a1             3775 Packages
  8f4441026f7def9fe91cc06f7b467e8ce4e5269a1a2c7dac2672cb2d65cb7311163a34fe1eef3c78b818545ab6852169d9e121a8abc13e082742764f498c83be             1805 Packages.bz2
  d67b756376cb7b000e1fc1c4b2d9bc8b20b66fc160c3566215d7998e8eb3218429a794eb356a3c30e4d62c3f6213dd3f0e066c1952e86130580ba35c4644c02b             1708 Packages.xz
  4354da01a2f4f38e9ea14ba5f04fa2df7258e0517b09dce4edc4c2b2dc807576a266c9892fb1aee64d8fbf3ed06ac95f05a6876ac8de7e169c4b708c4631074e             1666 Packages.zst
- d08b10d46a2c81c27ddf65979393ac30c80c2a7dcf240dbbbaf9d0d8d09080a9d63ae35c0191bf182165515228d8f26675881c2d46c5ade5d2dca87902283612              211 Release
+ d5db35acef10c833ac18e36fb0ccbc02b65c4b86f7a26d44f28e023ff68f245cdb18c3dedc1cf17f853e6fcb2c740ef161957c420e2ef625f1c142c9bf58c2fb              221 Release
