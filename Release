@@ -1,8 +1,33 @@
 Architectures: iphoneos-arm iphoneos-arm64
-Codename: mopnop
+Codename: ios
 Components: main
-Description: a repo with derooted tweaks
-Label: the really cool repo :3
-Origin: MopNop
+Date: Sun, 18 Feb 2024 20:17:33 +0000
+Description: Sileo for Checkra1n and Unc0ver
+Label: Sileo
+Origin: Sileo
 Suite: stable
-Version: 1.0
+Version: 2.0
+MD5Sum:
+ 911c73f8995d359e45f8dbc653d5e902            27904 Packages
+ ccfbf469f8ab2a61c5541c46ccf0bd92             6369 Packages.bz2
+ b21b52d5210b658f81d443429f1fe40c             5876 Packages.xz
+ c05315da14aef10722c36e0f53857a60             5902 Packages.zst
+ f58e101fa8b7169203d5987fc26ad9c7              211 Release
+SHA1:
+ 53ee34d9e2d2f4f22cbf4027c3b5078209224db1            27904 Packages
+ a7165acdde591ff601903488f48f268458b68288             6369 Packages.bz2
+ 12075277ab80780ee01b7f2c51c2825835384a8e             5876 Packages.xz
+ 15675e13d4da8f297279bdd76db205a25339c391             5902 Packages.zst
+ e4fac79918f1c1073af333ce117d67bf2b79d81a              211 Release
+SHA256:
+ 6a98a5baacd23ff732096b076d738ac07d06d69cb7af5a266bbfb4e317c1a6fd            27904 Packages
+ e52faf0620ae5770e83109d7e5eac791c635e9225b2999823be01e60ea7281a0             6369 Packages.bz2
+ 3e98c95ef9459ebc08803d581d11175021d695d4036907c59eec92670da55397             5876 Packages.xz
+ 356b5c9643bc3ca04a21b23cb404be45ec82b89ea594b6f8e86881ea90a80cdf             5902 Packages.zst
+ d41180c451a399224e688738b53b5fbace1d8ebda23a419af742045480fb4bdc              211 Release
+SHA512:
+ ee50bcadbed4988008aea7a7d750eb42fb6c5163abf143f689c6e9212dfc67a87660474a7bd297d3f7c6cc043328ba6170e7f9b69d70ce54b4e6be7812daf006            27904 Packages
+ 30b068a196b7549adf0c1bac094a109557406082d3fa4a16ba385027cb3e7dcfdc29def683d8bbb83736d310fbbf3c1b1cc1bb02fba780b99b4c1f79be6d4429             6369 Packages.bz2
+ 9764c6f05df63a3ba163caf9779e3cbd0935a1a5e58b43230910e1fa4eeaf08f7811eb1089b723721cdd3e67a518b575a11e518e6073b3ef087bb2af986c324d             5876 Packages.xz
+ f24977758206f87a2817add65f255fc95fe661554e0775b25d3e15c23ea5860dd87886ca7ee134565472bebeb0492e7ba23147cbd01d5aaf1b3fbb01c671dad3             5902 Packages.zst
+ 7eb98f80a017b74b817f3fc6c3df634ea1ee746001ef50240e15749662a2bd49376fa9a4a63bbd92f0c4712e565db4593a1769f130bbc0e67f159ad7c2659d50              211 Release
