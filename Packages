@@ -38,6 +38,24 @@ Description: a "very good" theme
 Name: shitboard theme
 Author: melody
 
+Package: com.noisyflake.cozybadges
+Architecture: iphoneos-arm64
+Version: 2.1-rootless
+Section: Tweaks
+Maintainer: NoisyFlake & b4db1r3
+Installed-Size: 596
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Filename: ./pool/com.noisyflake.cozybadges_2.0-rootless_iphoneos-arm64-a.deb
+Size: 63304
+MD5sum: 7e6a8b185416efe5bdcff54242d062c9
+SHA1: 424ea7ffb6d37ce228a5842032c7616a7082cd97
+SHA256: 2c446ddb5fcc4291a675e4599f081f36371368b9bcdf79dd55c41674246cba04
+SHA512: 45910dc5a575926de1ab30ab63121c7320cb75144eee54b2994f58223c0bb9e8c952d956fe2c2621002216c9a8150093b412a79cc9e08c805a5821f04a6c6d7b
+Description: A cozy place for your badges
+Name: CozyBadges
+SileoDepiction: https://b4db1r3.github.io/d3vr3p0/depictions/native/com.noisyflake.cozybadges_2.0-rootless_iphoneos-arm64/depiction.json
+Author: NoisyFlake & b4db1r3
+
 Package: com.ryannair05.cylinderremade
 Architecture: iphoneos-arm64
 Version: 0.0.3-beta
